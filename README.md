@@ -1,6 +1,11 @@
 # Operant
 Scripts for scoring operant social behavior
 
+Instructions for running these files: see the more extensive readme for BeeryLab/IntervoleTimer which has step by step instructions for running these scripts.
+Quick version:
+From the command line (e.g. Terminal on a mac), navigate to the directory with the script and launch with "perl OperantSocialTimerRightTetheree1.2a.pl" 
+Fill out the test information in response to prompts, then hit spacebar to begin scoring.  Use < and > (over , and .) to move the icon of the rodent. 
+
 Operant Social Timer:
 These scripts allow the user to quantify social behavior in an operant apparatus by moving a rodent icon to mimic behavior witnessed in any-speed playback video. 
 Variables in the script allow the user to set the test duration (30 minutes is the session default) and results are scaled.
@@ -18,8 +23,7 @@ A view of the version with the stimulus animal on the right, and the free vole d
          |                        |_________|                        <: )--  |
          |________________________|         |________________________________|
 
-,                                   --( :>                                 
-
+                                    --( :>                                 
 
 
 
